@@ -1,0 +1,2 @@
+# Collaborative-Filtering-based-Recommendation-System-for-Movies-
+Developed movie recommendation system using Principal Component Analysis and k-means clustering. Compared collaborative filtering approaches - SVD model-based and cosine similarity memory-based. Memory-based achieved higher accuracy. Novel clustering and imputation techniques showed promise for accurate, robust hybrid recommendation systems.
